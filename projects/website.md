@@ -14,16 +14,16 @@ labels:
 summary: "A functioning forum website created by my team and I in EE 491F."
 ---
 
-<img class="img-fluid" src="../img/vacay/HerokuAndDocker.jpg">
+<img class="img-fluid" src="../img/HerokuAndDocker.jpg">
 
 This is a web application that I helped create as a team project in EE 491F, Summer 2022. The project helped me learn how to design and implement a responsive web site.
 
-This website is implemented using [Heroku](https://www.heroku.com/), a cloud platform and [Docker](https://gdevillele.github.io/compose/django/), a software platform that allows you to build, test, and deploy applications quickly. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+This website is implemented using [Heroku](https://www.heroku.com/), a cloud platform and [Docker](https://gdevillele.github.io/compose/django/), a software platform that allows you to build, test, and deploy applications quickly. Within two weeks, we created a website where users can create and upload posts and react to other postings through a liking and comment system.
 
 In this project I gained experience with full-stack web application design and associated technologies, including Django and PostGreSQL for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is some example code to illustrate Simple Schema use:
+Here is some example code of our django application:
 
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
+
+
 Source: <a href="https://github.com/EE491F-808Bangaz/project">808Bangaz/project</a>
