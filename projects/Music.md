@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Music"
 date: 2015
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - FL Studio
+  - Hobby
+  - Songwriting
+summary: "This is a song I started working on with one of my close friends this summer. It's still pretty raw and needs some better mixing and mastering but this is what we have so far. I'm singing and playing the guitar while he recorded the bass and drums."
 ---
 
 <div class="text-center p-4">
