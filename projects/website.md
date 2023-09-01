@@ -24,6 +24,7 @@ In this project I gained experience with full-stack web application design and a
 
 Here is some example code of our django application:
 
+<img class="img-fluid" src="../img/HerokuAndDocker.jpg">
 
 
 Source: <a href="https://github.com/EE491F-808Bangaz/project">808Bangaz/project</a>
