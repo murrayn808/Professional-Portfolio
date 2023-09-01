@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/HerokuAndDocker.jpg
 title: "Django Website Application"
 date: 2022
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "A functioning forum website created by my team and I in EE 491F."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/HerokuAndDocker.jpg">
 
 This is a web application that I helped create as a team project in EE 491F, Summer 2022. The project helped me learn how to design and implement a responsive web site.
 
