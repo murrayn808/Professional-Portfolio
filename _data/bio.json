@@ -1,26 +1,23 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Nathaniel Murray",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/murrayn808.png",
+    "email": "murrayn@hawaii.edu",
+    "phone": "808-639-5970",
+    "website": "https://murrayn808.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "murrayn808", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "nathaniel-murray", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Software Engineering" },
+    { "name": "Audio Engineering" },
+    { "name": "Music Production" },
+    { "name": "Vintage Clothing" }
   ],
   "skills": [
     {
@@ -35,9 +32,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,27 +42,26 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Ampt Energy",
+      "position": "Field Technician / Maintenance Worker",
+      "website": "https://www.ampt.com/",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Ampt Energy is a solar energy equipment supplier based out of Fort Collins, Colorado",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Tracked and replaced optimizer units at the solar farm in Lawai, Kauai"
       ]
     },
+    
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Duke's Kauai",
+      "position": "Busser / Food runner",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "2018",
+      "endDate": "2019",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+       "Bussed tables and ran food to customers"
       ]
     }
   ],
