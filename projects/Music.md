@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Picture-of-road.jpeg
 title: "Music"
 date: 2015
 published: true
@@ -12,11 +12,7 @@ labels:
 summary: "This is a song I started working on with one of my close friends this summer. It's still pretty raw and needs some better mixing and mastering but this is what we have so far. I'm singing and playing the guitar while he recorded the bass and drums."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+Picture-of-road.jpeg
 
 This is a song I started working on with one of my close friends this summer. It's still pretty raw and needs some better mixing and mastering but this is what we have so far. I'm singing and playing the guitar while he recorded the bass and drums.
 
