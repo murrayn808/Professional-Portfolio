@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/white-HerokuAndDocker.jpg
+image: ../img/HerokuAndDockerSquare.jpg
 title: "Django Website Application"
 date: 2022
 published: true
