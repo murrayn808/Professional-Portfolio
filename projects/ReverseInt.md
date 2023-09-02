@@ -6,7 +6,7 @@ title: "Reverseint.c"
 date: 2014
 published: true
 labels:
--C Language
+  -C Language
 summary: "An simple coding assignment from EE361 that required us to reverse a given integer."
 ---
 
