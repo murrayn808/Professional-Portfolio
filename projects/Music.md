@@ -16,7 +16,3 @@ This is a song I started working on with one of my close friends this summer. It
 
 Writing songs and making music is one thing I really like to do outside of programming. 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
