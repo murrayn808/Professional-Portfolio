@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/white-125-1259519_fl-studio-12-logo-fl-studio-logo-png.png
+image: ../img/flstudiologosquare.png
 
 
 title: "Music"
