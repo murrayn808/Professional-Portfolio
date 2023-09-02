@@ -10,6 +10,41 @@ labels:
 summary: "An simple coding assignment from EE361 that required us to reverse a given integer."
 ---
 
+<pre>
+  <code>
+   #include <stdlib.h>
+   #include <stdio.h>
+
+   int reverse_int(int n)
+   {
+   int remainder;
+   int reverse = 0;
+
+   while (n != 0) {
+   remainder = n % 10;
+   reverse = reverse * 10 + remainder;
+   n /= 10;
+   }
+
+   return reverse;
+   }
+
+   int main()
+   {
+
+
+   int m = 456;
+   printf("n = %d, reverse = %d\n", m, reverse_int(m));
+   m = -456;
+   printf("n = %d, reverse = %d\n", m, reverse_int(m));
+   m = 3400;
+   printf("n = %d, reverse = %d\n", m, reverse_int(m));
+
+
+   }
+
+  </code>
+</pre>
 
 Here's a breakdown of how it works:
 
