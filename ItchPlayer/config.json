@@ -1,0 +1,32 @@
+{
+    "title": "",
+    "media": [
+        {
+            "file": "Imaginary Ex Raw.mp3",
+            "type": "audio",
+            "feature": true,
+            "title": "Imaginary Ex Raw.mp3"
+        }
+    ],
+    "theme": {
+        "titleStyle": "none",
+        "backgroundColor": "#1e1e1e",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#838383",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": "",
+    "loopModeDefault": "none"
+}
