@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/Picture of road.jpeg
+image: img/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png
+
 title: "Music"
 date: 2023
 published: true
