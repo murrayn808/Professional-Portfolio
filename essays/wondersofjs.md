@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Imaginationspongbob.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/Imaginationspongbob.jpg">
 
 What do you think about Javascript so far? If you’re a complete newbie, how does it compare to other programming languages that you know? If you have prior experience, did you learn new things from this module, perhaps with respect to ES6? Do you think Javascript is a good or bad programming language from a software engineering perspective?
 
