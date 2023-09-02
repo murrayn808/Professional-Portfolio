@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
+title: "Reverseint.c"
 date: 2014
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+ -C Language
+ 
+summary: "An simple coding assignment from EE361 that required us to reverse a given integer."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
