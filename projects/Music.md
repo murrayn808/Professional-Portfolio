@@ -17,9 +17,4 @@ This is a song I started working on with one of my close friends this summer. It
 
 Writing songs and making music is one thing I really like to do outside of programming. 
 
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=rQhhJsk7Puk" 
-          title="Overview of Hackystat" 
-          allowfullscreen>
-  </iframe>
-</div>
+Here is a [link](https://www.youtube.com/watch?v=rQhhJsk7Puk).
