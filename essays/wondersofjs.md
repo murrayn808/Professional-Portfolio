@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Wonders of JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2023-09-01
 published: true
 labels:
   - Software Engineering
