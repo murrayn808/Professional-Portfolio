@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "The Wonders of JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2015-08-26
 published: true
@@ -12,8 +12,13 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+The Wonders of JavaScript
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+Versatility:
+JavaScript is incredibly versatile, as it can be used for both front-end and back-end web development. For front-end, it allows developers to create interactive and dynamic web applications with ease. On the back-end, JavaScript frameworks like Node.js have gained popularity for their ability to build scalable and high-performance server applications. This versatility makes JavaScript a valuable language for full-stack developers.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Ubiquity:
+JavaScript is natively supported by all major web browsers, which means that virtually every device with internet access can run JavaScript code. This ubiquity is a significant advantage, as it allows developers to reach a broad audience without worrying about compatibility issues.
+
+Large and Active Community:
+JavaScript has a vast and active developer community. This community-driven approach leads to constant innovation and a wealth of resources, libraries, and frameworks readily available to developers. Popular libraries like React, Angular, and Vue.js have further accelerated JavaScript's popularity for front-end development.
