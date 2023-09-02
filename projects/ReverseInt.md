@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Reverseint.png
+image: img/white-Reverseint.png
 title: "Reverseint.c"
 date: 2022
 published: true
