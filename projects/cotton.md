@@ -13,47 +13,27 @@ summary: "An simple coding assignment from EE361 that required us to reverse a g
 
 <img class="img-fluid" src="../img/Reverseint.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Here's a breakdown of how it works:
 
-To give you a flavor of the game, here is an excerpt from one run:
+int reverse_int(int n): This function takes an integer n as input and returns its reverse.
 
-<hr>
+Inside the function, there are two variables:
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+remainder: This variable is used to store the remainder when n is divided by 10.
+reverse: This variable is used to build the reversed integer.
+The while loop continues until n becomes 0:
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+remainder = n % 10;: This line calculates the last digit of n by taking the remainder when n is divided by 10.
+reverse = reverse * 10 + remainder;: This line updates the reverse variable by shifting its digits one place to the left and adding the calculated remainder. This effectively builds the reverse integer digit by digit.
+n /= 10;: This line removes the last digit from n by dividing it by 10.
+Once the loop finishes, the reverse variable contains the reversed integer, which is then returned.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+In the main function:
 
-pickup candle
-- you are now carrying the candle -
+Three different integers (m) are defined (456, -456, and 3400), and the reverse_int function is called for each of them.
+The program then prints the original integer (n) and its reverse, as calculated by the reverse_int function.
+Here's how the program works with the provided test cases:
 
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+For m = 456, the reversed integer is calculated as 654, so it prints "n = 456, reverse = 654".
+For m = -456, the reversed integer is calculated as -654, so it prints "n = -456, reverse = -654".
+For m = 3400, the reversed integer is calculated as 43, so it prints "n = 3400, reverse = 43".
