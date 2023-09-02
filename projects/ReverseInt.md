@@ -12,8 +12,8 @@ summary: "An simple coding assignment from EE361 that required us to reverse a g
 
 <pre>
   <code>
-   #include <stdlib.h>
-   #include <stdio.h>
+   #include stdlib.h
+   #include stdio.h
 
    int reverse_int(int n)
    {
