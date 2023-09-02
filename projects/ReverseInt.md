@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Reverseint.png
 title: "Reverseint.c"
-date: 2014
+date: 2022
 published: true
 labels:
   -C Language
