@@ -70,8 +70,11 @@ In the main function:
 
 Three different integers (m) are defined (456, -456, and 3400), and the reverse_int function is called for each of them.
 The program then prints the original integer (n) and its reverse, as calculated by the reverse_int function.
+
 Here's how the program works with the provided test cases:
 
 For m = 456, the reversed integer is calculated as 654, so it prints "n = 456, reverse = 654".
+
 For m = -456, the reversed integer is calculated as -654, so it prints "n = -456, reverse = -654".
+
 For m = 3400, the reversed integer is calculated as 43, so it prints "n = 3400, reverse = 43".
