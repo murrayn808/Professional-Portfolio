@@ -6,7 +6,8 @@ title: "Connections between Software Engineering and Music"
 date: 2023-09-01
 published: true
 labels:
-  - Engineering
+  - Technology
+  - Creativity
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/rockband.jpg">
