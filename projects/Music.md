@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png
+image: ../img/125-1259519_fl-studio-12-logo-fl-studio-logo-png.png
 
 title: "Music"
 date: 2023
