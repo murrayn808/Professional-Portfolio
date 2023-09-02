@@ -11,9 +11,7 @@ labels:
 summary: "An simple coding assignment from EE361 that required us to reverse a given integer."
 ---
 
-<img class="img-fluid" src="../img/Reverseint.png">
-
-pre>
+<pre>
   <code>
    #include <stdlib.h>
    #include <stdio.h>
@@ -56,11 +54,15 @@ int reverse_int(int n): This function takes an integer n as input and returns it
 Inside the function, there are two variables:
 
 remainder: This variable is used to store the remainder when n is divided by 10.
+
 reverse: This variable is used to build the reversed integer.
 The while loop continues until n becomes 0:
 
 remainder = n % 10;: This line calculates the last digit of n by taking the remainder when n is divided by 10.
-reverse = reverse * 10 + remainder;: This line updates the reverse variable by shifting its digits one place to the left and adding the calculated remainder. This effectively builds the reverse integer digit by digit.
+
+reverse = reverse * 10 + remainder;: This line updates the reverse variable by shifting its digits one place to the left and adding the calculated remainder. 
+This effectively builds the reverse integer digit by digit.
+
 n /= 10;: This line removes the last digit from n by dividing it by 10.
 Once the loop finishes, the reverse variable contains the reversed integer, which is then returned.
 
