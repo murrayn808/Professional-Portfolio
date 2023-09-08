@@ -17,8 +17,7 @@ labels:
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 ## Smart vs. Dumb Questions
 
