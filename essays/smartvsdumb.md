@@ -13,7 +13,7 @@ labels:
 
 ## Smart vs. Dumb Questions
 
-  In my smart question example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in "How to Ask Questions the Smart Way." Smart questions are characterized by:
+  In my [smart question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in "How to Ask Questions the Smart Way." Smart questions are characterized by:
 
 -Explicitness
 
