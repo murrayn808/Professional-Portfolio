@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/stackoverflowpicture.png">
+<img width="350px" class="rounded float-start pe-4" src="../img/stackoverflowpicture.png">
 
 ## Smart vs. Dumb Questions
 
