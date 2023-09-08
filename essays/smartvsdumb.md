@@ -10,6 +10,7 @@ labels:
   - Learning
 ---
 
+<img width="400px" class="rounded float-start pe-4" src="../img/rockband.jpg">
 
 ## Smart vs. Dumb Questions
 
