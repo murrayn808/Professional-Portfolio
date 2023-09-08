@@ -17,19 +17,18 @@ labels:
   In my [smart question](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in ["How to Ask Questions the Smart Way."](http://www.catb.org/esr/faqs/smart-questions.html) Smart questions are characterized by:
 
 
-
-
-
-
-
-
-
 -Explicitness <br>
+
 -Meaningful and specific subject headers <br>
+
 -Diligent research <br>
+
 -Precision and informativeness <br>
+
 -Describing symptoms, not guesses <br>
+
 -Chronological description <br>
+
 -Focusing on the goal, not the steps <br>
 
 In the smart question that I chose the poster asked “Why is processing a sorted array faster than processing an unsorted array?” In his post, he included copies of his code in C++ and multiple tests created by himself. He pointed out that without a certain line of code which sorts the array, the code took longer to run. He then included another test run using Java and the results were similar; without sorting the array the code was taking longer to run.
