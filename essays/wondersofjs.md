@@ -22,7 +22,7 @@ Another important difference are JavaScript's dynamic arrays, defined using squa
 
 From this module, I learned a lot about JavaScript syntax and how to navigate functions and objects as well as the basic operators for math and boolean. I haven't explored the language enough to give a better opinion on it but so far I feel like JavaScript has great flexibility with some drawbacks that I will discover further along when it comes to loose typing. 
 
-## Thoughts on the class
+## Thoughts on the Class
 
 Athletic Software Engineering has been a good practice. The term use it or lose it is very true, and if you don't sharpen a skill frequently enough you will begin to dull. The practice WODs are useful because they create a high stakes stressful environment that's similar to an actual coding interview process. Time is a metric that will always be used against you so having that pressure is great practice. 
 
