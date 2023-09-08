@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection of Week 1 and 2"
+title: "Smart vs Dumb Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-07
 published: true
