@@ -11,10 +11,9 @@ labels:
 ---
 
 
-## The Wonders of JavaScript
+## Smart vs. Dumb Questions
 
-Smart vs. Dumb Questions
-In my smart question example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in "How to Ask Questions the Smart Way." Smart questions are characterized by:
+  In my smart question example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in "How to Ask Questions the Smart Way." Smart questions are characterized by:
 
 -Explicitness
 -Meaningful and specific subject headers
@@ -24,6 +23,8 @@ In my smart question example, I found a StackOverflow post that aligns with the 
 -Chronological description
 -Focusing on the goal, not the steps
 
-The chosen smart question asks, "Why is processing a sorted array faster than an unsorted array?" The poster provides C++ code and test results, highlighting the difference sorting makes in execution time. They also compare the results in Java. One user's response discusses processor-level "branch prediction" and offers an optimized solution using bitwise operations.
-This question is smart because it follows these guidelines, presenting a clear issue, relevant header, and well-researched context.
-In contrast, the dumb question lacks a detailed description, has a vague header, lacks visuals, and appears to be written in poor English. StackOverflow likely closed it due to its low quality.
+  In the smart question that I chose the poster asked “Why is processing a sorted array faster than processing an unsorted array?” In his post, he included copies of his code in C++ and multiple tests created by himself. He pointed out that without a certain line of code which sorts the array, the code took longer to run. He then included another test run using Java and the results were similar; without sorting the array the code was taking longer to run.
+One user's response to this question was related to the processor level where ‘branch prediction’ takes place. In summary, sorted arrays create recognizable patterns which the processor can interpret and use in their branch prediction models. The higher success of predictability, the faster the code can run. However, a further optimized solution was pointed out by this user in scrapping a certain if statement altogether and instead replacing it with a bitwise operation. This gets rid of the branch that is created with the if statement. It is thanks to the way this question is presented that the poster was able to get a good answer and a further optimized piece of code.
+	I think this question is a smart question because he is explicit in the way he presents it. The header “Why is processing a sorted array faster than an unsorted array,” is directly relevant to his question and it seems like the poster has done enough testing and diligent research to be ready to learn further information. He also does not flood his post with assumptions, rather just states the symptoms and the facts of what he is encountering and asks for interpretation.
+	
+  In the dumb question I chose, the poster barely includes a description of their issue, the header is incredibly vague and there are no attached screenshots or visuals to look at. It also seems like it is written in broken english. The question is so bad that it seems that stackOverflow closed it to outside responses completely. 
