@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My experience with JavaScript so far"
+title: "My Experience With JavaScript so Far"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-01
 published: true
