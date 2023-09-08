@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection of Week 1 and 2"
+title: "My experience with JavaScript so far"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-01
 published: true
