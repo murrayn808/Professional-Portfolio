@@ -14,7 +14,7 @@ labels:
 summary: "A functioning forum website created by my team and I in EE 491F."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/Untitled design.png">
+<img class="img-fluid" img width="600px" src="../img/Untitled design.png">
 
 This is a web application that I helped create as a team project in EE 491F, Summer 2022. The project helped me learn how to design and implement a responsive web site.
 
@@ -24,7 +24,7 @@ In this project I gained experience with full-stack web application design and a
 
 Here is some example code of our django application:
 
-<img width="600px" class="rounded float-start pe-4" src="../img/django app screenshot.png">
+<img class="img-fluid" img width="700px" src="../img/django app screenshot.png">
 
 
 Source: <a href="https://github.com/EE491F-808Bangaz/project">808Bangaz/project</a>
