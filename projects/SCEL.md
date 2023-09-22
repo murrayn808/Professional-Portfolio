@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Reverseintsquare.png
+image: img/wind_sensor.jpg
 title: "Smart Energy Campus Lab"
 date: 2023
 published: true
