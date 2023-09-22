@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/stackoverflowpicture.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/IntelliJ-Idea-logo1.png">
 
 ## Javascript Coding Standards
 
