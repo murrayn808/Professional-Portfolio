@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Connections between Software Engineering and Music"
+title: "Connections Between Software Engineering and Music"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-01
 published: true
