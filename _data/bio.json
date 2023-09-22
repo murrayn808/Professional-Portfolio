@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Javascript", "MIPS", "Verilog" ]
+      "keywords": [ "C", "C++", "Python", "Javascript", "MIPS", "Verilog", "Django" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Linux", "Git/GitHub", "Node.js", "Underscore", "IntelliJ" ]
+      "keywords": [ "Windows", "Linux", "Git/GitHub", "Node.js", "Underscore", "Docker" ]
     }
   ],
   "education": [
