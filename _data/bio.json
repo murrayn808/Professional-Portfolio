@@ -30,13 +30,22 @@
     }
   ],
   "education": [
+      {
+      "institution": "Kauai High School, Lihue, HI",
+      "area": "High School Diploma",
+      "studyType": ,
+      "startDate": "2014",
+      "endDate": "2018",
+      "courses": [ 
+      ]
+    },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Summer, 2024)",
-      "studyType": "B.S.",
-      "startDate": "2020-09-01",
-      "endDate": "Present",
-      "courses": [ "Object Oriented Software Engineering", "Full Stack Web Development", "Circuit Analysis", "Digital Design"
+      "institution": "Kauai Community College, Lihue, HI",
+      "area": "Natural Science and Liberal Arts",
+      "studyType": "A.S.",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": [ 
       ]
     },
      {
