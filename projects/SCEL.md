@@ -16,4 +16,4 @@ summary: "Member of a Vertically Integrated Project aimed at designing and imple
 
 The Smart Campus Energy Lab is led by Dr. Anthony Kuh, a professor of Electrical Engineering at the University of Hawaii at Manoa.
 
-Our goal is to support efforts in creating new technologies, techniques and products related to sustainability or renewable energy. We are primarily a student-led lab that strives to achieve this by promoting teamwork, communication, and lifelong learning.
+The objective of this project is to design and develop low-cost, accurate, and reliable environmental sensor modules that can easily be reproduced for mass deployment on rooftops across the University of Hawaii at Manoa campus. The meteorological data collected from these modules will assist in planning future renewable energy installations as well as providing risk mitigation for electricity generation through the development of renewable resource prediction and forecasting algorithms.
