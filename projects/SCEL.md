@@ -12,7 +12,7 @@ labels:
 summary: "A Vertically Integrated Project aimed at designing and implementing weather sensor modules at the University of Manoa."
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/wind_sensor.jpg">
+<img class="img-fluid" img width="600px" src="../img/wind_sensor.jpg">
 
 
 The Smart Campus Energy Lab is led by Dr. Anthony Kuh, a professor of Electrical Engineering at the University of Hawaii at Manoa.
