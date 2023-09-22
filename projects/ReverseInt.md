@@ -2,49 +2,17 @@
 layout: project
 type: project
 image: img/Reverseintsquare.png
-title: "Reverseint.c"
-date: 2022
+title: "Smart Energy Campus Lab"
+date: 2023
 published: true
 labels:
   -C Language
-summary: "An simple coding assignment from EE361 that required us to reverse a given integer."
+  -Arduino
+  -PCB Design
+summary: "Member of a Vertically Integrated Project aimed at designing and implementing weather sensor modules at the University of Manoa."
 ---
 
-<pre>
-  <code>
-   #include &lt;stdlib.h&gt;
-   #include &lt;stdio.h&gt;
 
-   int reverse_int(int n)
-   {
-   int remainder;
-   int reverse = 0;
-
-   while (n != 0) {
-   remainder = n % 10;
-   reverse = reverse * 10 + remainder;
-   n /= 10;
-   }
-
-   return reverse;
-   }
-
-   int main()
-   {
-
-
-   int m = 456;
-   printf("n = %d, reverse = %d\n", m, reverse_int(m));
-   m = -456;
-   printf("n = %d, reverse = %d\n", m, reverse_int(m));
-   m = 3400;
-   printf("n = %d, reverse = %d\n", m, reverse_int(m));
-
-
-   }
-
-  </code>
-</pre>
 
 Here's a breakdown of how it works:
 
