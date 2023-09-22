@@ -6,9 +6,9 @@ title: "Smart Energy Campus Lab"
 date: 2023
 published: true
 labels:
-  -C Language
-  -Arduino
-  -PCB Design
+  - C Language
+  - Arduino
+  - PCB Design
 summary: "Member of a Vertically Integrated Project aimed at designing and implementing weather sensor modules at the University of Manoa."
 ---
 
