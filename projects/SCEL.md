@@ -9,7 +9,7 @@ labels:
   - C Language
   - Arduino
   - PCB Design
-summary: "Member of a Vertically Integrated Project aimed at designing and implementing weather sensor modules at the University of Manoa."
+summary: "A Vertically Integrated Project aimed at designing and implementing weather sensor modules at the University of Manoa."
 ---
 
 <img class="img-fluid" src="../img/wind_sensor.jpg">
