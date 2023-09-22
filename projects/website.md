@@ -14,7 +14,7 @@ labels:
 summary: "A functioning forum website created by my team and I in EE 491F."
 ---
 
-<img class="img-fluid" src="../img/Untitled design.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Untitled design.png">
 
 This is a web application that I helped create as a team project in EE 491F, Summer 2022. The project helped me learn how to design and implement a responsive web site.
 
