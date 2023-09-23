@@ -18,4 +18,6 @@ This is a project I worked on with me and 2 other team members to create a simpl
 
 <img class="img-fluid" img width="800px" src="../img/switch1.png">
 
+In this project, we were to create and configure a network in which a host computer can send commands to other connected computers using pipes, sockets and a switch. In this network, the host computer can download files, upload files, and send and recieve ping messages from other computers. 
+
 Here is a [link](https://github.com/murrayn808/EE367L_clientservernetwork) to the repository.
