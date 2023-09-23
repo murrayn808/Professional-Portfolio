@@ -11,8 +11,10 @@ labels:
   - C
   - Networking
   - Switches
-summary: "This is a project I worked on with me and 2 other team members to create a simple client server network for my Data Structures and Algorithms class."
+summary: "A simple client server network program from my Data Structures and Algorithms class."
 ---
+
+This is a project I worked on with me and 2 other team members to create a simple client server network for my Data Structures and Algorithms class.
 
 <img class="img-fluid" img width="800px" src="../img/Rock-Band-Harmonix.jpg">
 
