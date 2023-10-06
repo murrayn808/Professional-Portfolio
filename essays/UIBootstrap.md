@@ -32,10 +32,5 @@ So far, learning Bootstrap has simplified the process of setting up webpages sig
 
 Another feature of Bootstrap 5 that has been really helpful is the flexbox class, which has the ability to automatically align and correct spacing of certain elements depending on what the designer chooses such as at the start, center or the end of the width of the screen. Finally, the last feature of Bootstrap that has considerably helped me was the footer feature, which is able to stick a section of the website to the bottom of the webpage. This is useful for extra information that businesses usually want to display such as copyright notes, email newsletters and other links.
 
-Comparison with Raw HTML and CSS
-
 While HTML and CSS offer complete control, building a responsive and consistent website from scratch is time-consuming. UI frameworks like Bootstrap 5 reduce this effort. The choice depends on your project's needs and your familiarity with the technologies.
-
-Conclusion
-
 UI frameworks like Bootstrap 5 make web development more accessible and efficient. They may seem complex at first, but the benefits in terms of consistency, speed, and support make them a valuable investment for developers at all levels. Whether you're a beginner or an experienced developer, UI frameworks can help you create modern, user-friendly websites with ease.
