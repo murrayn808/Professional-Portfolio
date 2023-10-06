@@ -26,7 +26,7 @@ Why UI Frameworks Are Valuable
 
 4. **Community and Documentation**: UI frameworks have active communities and detailed documentation, making it easier to learn and troubleshoot.
 
-##Personal Experience with Bootstrap 5
+## Personal Experience with Bootstrap 5
 
 So far, learning Bootstrap has simplified the process of setting up webpages significantly for me. One feature of Bootstrap 5 that I've been heavily relying on in my recent WODs is the navbar, which organizes navigational features in the header of a website more easily. By altering and substituting few lines of code I am able to interchange buisness logos and navlink names with ease. One feature of the navbar that I've been using is the dropdown class which allows the navlinks to have dropdown menus with further navigational options in the header. 
 
