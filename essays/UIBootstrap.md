@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpeg">
+<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpg">
 
 ##Simplifying Web Development with UI Frameworks
 
