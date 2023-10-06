@@ -12,7 +12,7 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpg">
 
-##Simplifying Web Development with UI Frameworks
+## Simplifying Web Development with UI Frameworks
 
 User Interface (UI) Frameworks like Bootstrap 5 and Semantic UI can seem complex, almost like learning a new programming language. However, they have tremendous benefits in web development. In this essay, I'll explore why it's worth investing time in these frameworks instead of sticking to raw HTML and CSS.
 
