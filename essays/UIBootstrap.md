@@ -10,21 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/IntelliJ-Idea-logo1.png">
-
----
-layout: essay
-type: essay
-title: "Javascript Coding Standards"
-# All dates must be YYYY-MM-DD format!
-date: 2023-09-21
-published: true
-labels:
-  - Software Engineering
-  - Learning
----
-
-<img width="400px" class="rounded float-start pe-4" src="../img/IntelliJ-Idea-logo1.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpeg">
 
 ##Simplifying Web Development with UI Frameworks
 
