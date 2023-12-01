@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/softwaredesignpattern.jpg">
 
 ## Design Patterns and Software Engineering
 Design patterns in the context of software engineering are recurring solutions to common problems encountered in the design and implementation of software. These patterns are not templates or ready-made code but rather general guidelines to address specific issues. They encapsulate best practices, providing a structured approach to design and promoting code that is modular, maintainable, and scalable. 
