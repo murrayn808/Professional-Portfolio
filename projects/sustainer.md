@@ -13,7 +13,7 @@ labels:
 summary: "Collaborated with a team and created Sustainer, a reusable takeout program app for Zero Waste Oahu, in the recently concluded Hawaii Annual Code Challenge 2023."
 ---
 
-<img class="img-fluid" img width="600px" src="../img/wind_sensor.jpg">
+<img class="img-fluid" img width="600px" src="../img/sustainer.png">
 
 
 Hawai’i Annual Code Challenge:
