@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Bootstrap5.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/SEreflection.jpg">
 
 Beyond Web Development: A Journey into Fundamental Software Engineering Concepts
 
