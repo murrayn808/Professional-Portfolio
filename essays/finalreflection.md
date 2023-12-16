@@ -12,9 +12,7 @@ labels:
 
 <img width="400px" class="rounded float-start pe-4" src="../img/SEreflection.jpg">
 
-Beyond Web Development: A Journey into Fundamental Software Engineering Concepts
-
-## Introduction
+## Beyond Web Development: A Journey into Fundamental Software Engineering Concepts
 
 Throughout this course, my exploration of software engineering has ventured beyond just web application development. While acquiring valuable skills in crafting web applications, the more profound goal has been to delve into fundamental software engineering concepts themselves. This essay reflects on my learnings from three pivotal topics—Development Environments, Coding Standards, and Agile Project Management—and considers their broader implications in the diverse landscape of software engineering.
 
