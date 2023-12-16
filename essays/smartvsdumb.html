@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Smart vs Dumb Questions | Nathaniel Murray | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/murrayn808.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Nathaniel Murray | Professional Portfolio">
+    <meta property="og:url" content="https://murrayn808.github.io/essays/smartvsdumb.html">
+    <meta property="og:title" content="Smart vs Dumb Questions | Nathaniel Murray | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/murrayn808.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Smart vs Dumb Questions | Nathaniel Murray | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Nathaniel Murray</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Smart vs Dumb Questions</h1>
+  <span class="date">07 Sep 2023</span>
+  <hr>
+  <p><img width="400px" class="rounded float-start pe-4" src="../img/stackoverflowpicture.png" /></p>
+
+<h2 id="smart-vs-dumb-questions">Smart vs. Dumb Questions</h2>
+
+<p>In my <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">smart question</a> example, I found a StackOverflow post that aligns with the principles of asking questions effectively, as outlined by Eric Steven Raymond and Rick Moen in <a href="http://www.catb.org/esr/faqs/smart-questions.html">“How to Ask Questions the Smart Way.”</a> Smart questions are characterized by their explicitness, meaningful and specific subject headers, diligent research, precision and informativeness, description of symptoms rather than guesses, chronology, and focus on the goal rather than the steps.</p>
+
+<p>In the smart question that I chose the poster asked “Why is processing a sorted array faster than processing an unsorted array?” In his post, he included copies of his code in C++ and multiple tests created by himself. He pointed out that without a certain line of code which sorts the array, the code took longer to run. He then included another test run using Java and the results were similar; without sorting the array the code was taking longer to run.</p>
+
+<p>One user’s response to this question was related to the processor level where ‘branch prediction’ takes place. In summary, sorted arrays create recognizable patterns which the processor can interpret and use in their branch prediction models. The higher success of predictability, the faster the code can run. However, a further optimized solution was pointed out by this user in scrapping a certain if statement altogether and instead replacing it with a bitwise operation. This gets rid of the branch that is created with the if statement. It is thanks to the way this question is presented that the poster was able to get a good answer and a further optimized piece of code.</p>
+
+<p>I think this question is a smart question because he is explicit in the way he presents it. The header “Why is processing a sorted array faster than an unsorted array,” is directly relevant to his question and it seems like the poster has done enough testing and diligent research to be ready to learn further information. He also does not flood his post with assumptions, rather just states the symptoms and the facts of what he is encountering and asks for interpretation.</p>
+
+<p>In the <a href="https://stackoverflow.com/questions/77064518/how-to-solve-this-403-error-in-our-website">dumb question</a> I chose, the poster barely includes a description of their issue, the header is incredibly vague and there are no attached screenshots or visuals to look at. It also seems like it is written in broken english. The question is so bad that it seems that stackOverflow closed it to outside responses completely.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Nathaniel Murray",
+    "label": "Student",
+    "picture": "https://github.com/murrayn808.png",
+    "email": "murrayn@hawaii.edu",
+    "phone": "808-639-5970",
+    "website": "https://murrayn808.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering at the University of Hawaii. I expect to graduate in Summer, 2024.",
+    "location": { "address": "2934 Varsity Circle Apt 1", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "murrayn808", "url": "https://github.com/murrayn808" },
+      { "network": "linkedin", "username": "nathaniel-murray", "url": "www.linkedin.com/in/nathaniel-murray-54411528a" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Audio Engineering" },
+    { "name": "Music Production" },
+    { "name": "Vintage Clothing" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Python", "Javascript", "MIPS", "Verilog", "Django", "Bootstrap", "HTML/CSS", "Docker", "Node.js" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "Linux", "Git/GitHub"]
+    }
+  ],
+  "education": [
+      {
+      "institution": "Kauai High School, Lihue, HI",
+      "area": "High School Diploma",
+    
+      "startDate": "2014",
+      "endDate": "2018",
+      "courses": [ 
+      ]
+    },
+    {
+      "institution": "Kauai Community College, Lihue, HI",
+      "area": "Natural Science and Liberal Arts",
+      "studyType": "A.S.",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": [ 
+      ]
+    },
+     {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Summer, 2024)",
+      "studyType": "B.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [ "Object Oriented Software Engineering", "Full Stack Web Development", "Circuit Analysis", "Digital Design"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Ampt Energy",
+      "position": "Field Technician / Maintenance Worker",
+      "website": "https://www.ampt.com/",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Ampt Energy is a solar energy equipment supplier based out of Fort Collins, Colorado",
+      "highlights": [
+        "Tracked and replaced optimizer units at the solar farm in Lawai, Kauai"
+      ]
+    },
+    
+    {
+      "company": "Duke's Kauai",
+      "position": "Busser / Food runner",
+      "website": "https://www.dukeskauai.com/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "",
+      "highlights": [
+       "Bussed tables and ran food to customers"
+      ]
+    }
+  ],
+  
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-2022",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+     {
+      "title": "UHM CC Transfer Merit Award",
+      "date": "2021-2022",
+      "awarder": "UH Manoa",
+      "summary": "Scholarships awarded to community college transfer students."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
